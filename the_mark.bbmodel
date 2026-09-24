@@ -100,7 +100,7 @@
           "texture": 0
         }
       },
-      "uuid": "2708ab87-e62e-422b-87ac-78f1243116ff"
+      "uuid": "89fad45a-def6-404c-83cd-6843599e364e"
     },
     {
       "name": "core_facet_front",
@@ -185,7 +185,7 @@
           "texture": 0
         }
       },
-      "uuid": "c0f3b62f-7b85-45a3-a2cf-626f29aa4526"
+      "uuid": "5ea3b558-7ca1-429d-b6ad-a9cc10a5f4e2"
     },
     {
       "name": "core_facet_back",
@@ -270,7 +270,7 @@
           "texture": 0
         }
       },
-      "uuid": "895d5566-79ac-4d16-8508-e07475eab595"
+      "uuid": "ab00fa85-e7ec-4925-a6a0-62c01b742428"
     },
     {
       "name": "frame_strut_ur",
@@ -355,7 +355,7 @@
           "texture": 0
         }
       },
-      "uuid": "8885a942-c1b8-4fad-a827-096fe749ac93"
+      "uuid": "ee5b12f6-4163-4096-a842-36414a4c39b8"
     },
     {
       "name": "frame_strut_ll",
@@ -440,7 +440,7 @@
           "texture": 0
         }
       },
-      "uuid": "97a86ae8-a84e-4244-adcb-6feba5f36b6a"
+      "uuid": "878c9f05-fc1a-49f8-871d-0e9c6e0fd140"
     },
     {
       "name": "frame_strut_ul",
@@ -525,7 +525,7 @@
           "texture": 0
         }
       },
-      "uuid": "ea1c9f5e-d26a-4a36-9c66-c79e6e86982b"
+      "uuid": "9bd33034-db06-498f-b9eb-8508a4d09863"
     },
     {
       "name": "frame_strut_lr",
@@ -610,7 +610,7 @@
           "texture": 0
         }
       },
-      "uuid": "e66a8bd4-d41d-44c6-8d34-5ee563135212"
+      "uuid": "303bfcd1-c8e1-4c74-8461-ff8b51a7a0ea"
     },
     {
       "name": "runic_pin_top",
@@ -695,7 +695,7 @@
           "texture": 0
         }
       },
-      "uuid": "43c8e308-b2bf-4ba9-9346-a00f46c5fd4f"
+      "uuid": "e8b5d95e-6914-4681-b277-4f6ff1db6c4d"
     },
     {
       "name": "runic_pin_bottom",
@@ -780,7 +780,7 @@
           "texture": 0
         }
       },
-      "uuid": "0c03e44e-55c9-436b-9235-f7850b69f143"
+      "uuid": "4e7dc7e0-d9e1-48b6-9b99-778673247132"
     },
     {
       "name": "runic_pin_left",
@@ -865,7 +865,7 @@
           "texture": 0
         }
       },
-      "uuid": "4cb48c55-c073-498a-931b-6c2f31218d6d"
+      "uuid": "1c4c0390-f49f-44ac-a608-b69e1b0c949f"
     },
     {
       "name": "runic_pin_right",
@@ -950,7 +950,7 @@
           "texture": 0
         }
       },
-      "uuid": "2fca5795-a654-47b5-8572-fa64c8224888"
+      "uuid": "35348ec2-4dd7-4f17-a6b7-17e65431278a"
     },
     {
       "name": "inner_collar_ring",
@@ -1035,7 +1035,7 @@
           "texture": 0
         }
       },
-      "uuid": "2855403a-38e3-4cc0-93eb-93bb35968326"
+      "uuid": "994e1049-8f62-4c85-a236-bf86b48aa7d1"
     }
   ],
   "outliner": [
@@ -1047,15 +1047,15 @@
         8
       ],
       "color": 0,
-      "uuid": "15338eb3-365b-4668-8b28-789a098014d4",
+      "uuid": "d64611f6-72ea-400c-af4a-a6d4286c4913",
       "export": true,
       "isOpen": true,
       "locked": false,
       "visibility": true,
       "children": [
-        "2708ab87-e62e-422b-87ac-78f1243116ff",
-        "c0f3b62f-7b85-45a3-a2cf-626f29aa4526",
-        "895d5566-79ac-4d16-8508-e07475eab595"
+        "89fad45a-def6-404c-83cd-6843599e364e",
+        "5ea3b558-7ca1-429d-b6ad-a9cc10a5f4e2",
+        "ab00fa85-e7ec-4925-a6a0-62c01b742428"
       ]
     },
     {
@@ -1066,16 +1066,16 @@
         8
       ],
       "color": 0,
-      "uuid": "17173988-1abd-4c71-b064-5bb35d1f59bd",
+      "uuid": "867e78e1-af6e-42d6-b032-6ee54ff7f650",
       "export": true,
       "isOpen": true,
       "locked": false,
       "visibility": true,
       "children": [
-        "8885a942-c1b8-4fad-a827-096fe749ac93",
-        "97a86ae8-a84e-4244-adcb-6feba5f36b6a",
-        "ea1c9f5e-d26a-4a36-9c66-c79e6e86982b",
-        "e66a8bd4-d41d-44c6-8d34-5ee563135212"
+        "ee5b12f6-4163-4096-a842-36414a4c39b8",
+        "878c9f05-fc1a-49f8-871d-0e9c6e0fd140",
+        "9bd33034-db06-498f-b9eb-8508a4d09863",
+        "303bfcd1-c8e1-4c74-8461-ff8b51a7a0ea"
       ]
     },
     {
@@ -1086,16 +1086,16 @@
         8
       ],
       "color": 0,
-      "uuid": "8f377ed1-b301-4d74-a8d9-f81256504b39",
+      "uuid": "63999846-0a44-4fe7-ac48-d6bdcb1314a4",
       "export": true,
       "isOpen": true,
       "locked": false,
       "visibility": true,
       "children": [
-        "43c8e308-b2bf-4ba9-9346-a00f46c5fd4f",
-        "0c03e44e-55c9-436b-9235-f7850b69f143",
-        "4cb48c55-c073-498a-931b-6c2f31218d6d",
-        "2fca5795-a654-47b5-8572-fa64c8224888"
+        "e8b5d95e-6914-4681-b277-4f6ff1db6c4d",
+        "4e7dc7e0-d9e1-48b6-9b99-778673247132",
+        "1c4c0390-f49f-44ac-a608-b69e1b0c949f",
+        "35348ec2-4dd7-4f17-a6b7-17e65431278a"
       ]
     },
     {
@@ -1106,13 +1106,13 @@
         8
       ],
       "color": 0,
-      "uuid": "5fdbe61b-8590-4b72-8cae-7c406e5bfa30",
+      "uuid": "7580ec24-fa53-46ba-aa42-a9931bfe7fe4",
       "export": true,
       "isOpen": true,
       "locked": false,
       "visibility": true,
       "children": [
-        "2855403a-38e3-4cc0-93eb-93bb35968326"
+        "994e1049-8f62-4c85-a236-bf86b48aa7d1"
       ]
     }
   ],
@@ -1128,7 +1128,7 @@
       "visible": true,
       "mode": "bitmap",
       "saved": true,
-      "uuid": "8cc84070-b08f-4f20-9186-ab0ce68b52ce",
+      "uuid": "a3f0e3b9-ad66-4187-83b9-05425cbfc91f",
       "source": "data:image/png;base64,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"
     }
   ],
@@ -1269,5 +1269,315 @@
         0.9
       ]
     }
-  }
+  },
+  "animations": [
+    {
+      "name": "idle_abyssal_float",
+      "uuid": "8857c636-8cd8-4a79-b187-5d10e2973573",
+      "loop": "loop",
+      "length": 4.0,
+      "snapping": 24,
+      "animators": {
+        "d64611f6-72ea-400c-af4a-a6d4286c4913": {
+          "name": "Core Crystal",
+          "type": "bone",
+          "position": {
+            "0.0": {
+              "post": [
+                0,
+                0,
+                0
+              ],
+              "lerp_mode": "catmullrom"
+            },
+            "1.0": {
+              "post": [
+                0,
+                0.6,
+                0
+              ],
+              "lerp_mode": "catmullrom"
+            },
+            "2.0": {
+              "post": [
+                0,
+                0,
+                0
+              ],
+              "lerp_mode": "catmullrom"
+            },
+            "3.0": {
+              "post": [
+                0,
+                -0.6,
+                0
+              ],
+              "lerp_mode": "catmullrom"
+            },
+            "4.0": {
+              "post": [
+                0,
+                0,
+                0
+              ],
+              "lerp_mode": "catmullrom"
+            }
+          },
+          "rotation": {
+            "0.0": {
+              "post": [
+                0,
+                0,
+                0
+              ]
+            },
+            "2.0": {
+              "post": [
+                0,
+                180,
+                0
+              ]
+            },
+            "4.0": {
+              "post": [
+                0,
+                360,
+                0
+              ]
+            }
+          },
+          "scale": {
+            "0.0": {
+              "post": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            "1.0": {
+              "post": [
+                1.08,
+                1.08,
+                1.08
+              ]
+            },
+            "2.0": {
+              "post": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            "3.0": {
+              "post": [
+                1.08,
+                1.08,
+                1.08
+              ]
+            },
+            "4.0": {
+              "post": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            }
+          }
+        },
+        "7580ec24-fa53-46ba-aa42-a9931bfe7fe4": {
+          "name": "Inner Collar",
+          "type": "bone",
+          "rotation": {
+            "0.0": {
+              "post": [
+                0,
+                0,
+                0
+              ]
+            },
+            "2.0": {
+              "post": [
+                0,
+                0,
+                -15
+              ]
+            },
+            "4.0": {
+              "post": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "63999846-0a44-4fe7-ac48-d6bdcb1314a4": {
+          "name": "Runic Pins",
+          "type": "bone",
+          "scale": {
+            "0.0": {
+              "post": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            "1.0": {
+              "post": [
+                1.05,
+                1.05,
+                1.05
+              ]
+            },
+            "2.0": {
+              "post": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            "3.0": {
+              "post": [
+                1.05,
+                1.05,
+                1.05
+              ]
+            },
+            "4.0": {
+              "post": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            }
+          }
+        },
+        "867e78e1-af6e-42d6-b032-6ee54ff7f650": {
+          "name": "Carapace Frame",
+          "type": "bone",
+          "scale": {
+            "0.0": {
+              "post": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            "1.0": {
+              "post": [
+                1.02,
+                1.02,
+                1.02
+              ]
+            },
+            "2.0": {
+              "post": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            "3.0": {
+              "post": [
+                1.02,
+                1.02,
+                1.02
+              ]
+            },
+            "4.0": {
+              "post": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "resonance_rupture",
+      "uuid": "ecfcdc50-d08c-43c6-a8ac-a841a57d527e",
+      "loop": "once",
+      "length": 1.5,
+      "snapping": 24,
+      "animators": {
+        "d64611f6-72ea-400c-af4a-a6d4286c4913": {
+          "name": "Core Crystal",
+          "type": "bone",
+          "scale": {
+            "0.0": {
+              "post": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            "0.2": {
+              "post": [
+                0.8,
+                0.8,
+                0.8
+              ]
+            },
+            "0.4": {
+              "post": [
+                1.4,
+                1.4,
+                1.4
+              ]
+            },
+            "1.0": {
+              "post": [
+                1.05,
+                1.05,
+                1.05
+              ]
+            },
+            "1.5": {
+              "post": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            }
+          }
+        },
+        "867e78e1-af6e-42d6-b032-6ee54ff7f650": {
+          "name": "Carapace Frame",
+          "type": "bone",
+          "scale": {
+            "0.0": {
+              "post": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            "0.2": {
+              "post": [
+                0.95,
+                0.95,
+                0.95
+              ]
+            },
+            "0.45": {
+              "post": [
+                1.2,
+                1.2,
+                1.2
+              ]
+            },
+            "1.5": {
+              "post": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
 }
